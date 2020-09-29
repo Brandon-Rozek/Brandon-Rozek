@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome!
 
 <!--
 **Brandon-Rozek/Brandon-Rozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Scientist who enjoys tinkering and dabbling in a variety of different projects. My GitHub account features:
+- Reinforcement Learning Frameworks and Tools
+- Programming Language Implementations
+- Fun Little Tools from Books and Articles I've Read.
+  - [Replacing an Image out of Trebuchets](https://github.com/Brandon-Rozek/treimage)
+  - [Replacing the Background of a Webcam Feed](https://github.com/Brandon-Rozek/bodypix-background)
+
+Check out my website [brandonrozek.com](https://brandonrozek.com) to see what I've learned, research I'm working on, communities I'm a part of, and much more.
