@@ -22,6 +22,6 @@ I am a Computer Scientist who enjoys tinkering and dabbling in a variety of diff
   - [Replacing an Image out of Trebuchets](https://github.com/Brandon-Rozek/treimage)
   - [Replacing the Background of a Webcam Feed](https://github.com/Brandon-Rozek/bodypix-background)
   
-Outside of my repository, I contributed to a tool that [generates and verifies cryptographic modes of operations](https://github.com/symcollab/CryptoSolve).
+Outside of my repository, I contributed to a tool that [generates and verifies cryptographic modes of operations](https://github.com/cryptosolvers/CryptoSolve).
 
 Check out my website [brandonrozek.com](https://brandonrozek.com) to see what I've learned, research I'm working on, communities I'm a part of, and much more.
