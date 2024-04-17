@@ -3,7 +3,7 @@ name: Refresh latest posts from website
 on:
   workflow_dispatch:
   schedule:
-    - cron: "12 2 * * 1"
+    - cron: "8 5 * * 2"
 
 jobs:
   build_and_publish:
