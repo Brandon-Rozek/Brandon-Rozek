@@ -38,5 +38,5 @@ jobs:
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git add *.md
-          git commit -m "New/Modified Observations"
-          git push origin main
+          git commit -m "Refreshed Posts"
+          git push origin master
