@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Tracking Software Releases via RSS](https://brandonrozek.com/blog/tracking-software-releases-rss/) (2024.04.21)
 - [Disjunctive Goals in PDDL](https://brandonrozek.com/blog/disjunctive-goals-pddl/) (2024.04.16)
 - [Functions and Inductive Propositions in Lean 4](https://brandonrozek.com/blog/functions-inductive-propositions-lean4/) (2024.04.14)
 - [Disabling CPUs to Save Power](https://brandonrozek.com/blog/disabling-cpus-save-power/) (2024.04.06)
 - [Working with integer sets in Lean 4](https://brandonrozek.com/blog/integer-sets-lean4/) (2024.03.31)
-- [Coercing Ints to Nats for Induction in Lean 4](https://brandonrozek.com/blog/induction-ints-coercing-nats-lean4/) (2024.03.27)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
