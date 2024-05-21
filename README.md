@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Creating Patch Files](https://brandonrozek.com/blog/patch-files/) (2024.05.18)
 - [Learning a new language](https://brandonrozek.com/blog/learning-language/) (2024.05.12)
 - [Migrating from Docker Compose for Podman to Quadlets](https://brandonrozek.com/blog/migrating-docker-compose-podman-quadlets/) (2024.05.09)
 - [Circling around Vancouver](https://brandonrozek.com/blog/circling-around-vancouver/) (2024.05.04)
 - [USPS Forever Stamps](https://brandonrozek.com/blog/usps-forever-stamps/) (2024.04.25)
-- [Tracking Software Releases via RSS](https://brandonrozek.com/blog/tracking-software-releases-rss/) (2024.04.21)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
