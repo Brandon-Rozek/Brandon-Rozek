@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Accessing Homelab Services Remotely with mTLS](https://brandonrozek.com/blog/accessing-homelab-services-mtls/) (2024.07.21)
 - [Re: Static+, can it work?](https://brandonrozek.com/blog/re-static-plus/) (2024.07.01)
 - [Quick Beamer: Generating a slide at the beginning of each section](https://brandonrozek.com/blog/beamer-gen-slide-at-section/) (2024.06.15)
 - [Constraints and Safety in PDDL](https://brandonrozek.com/blog/safety-constraints-pddl/) (2024.06.09)
 - [Creating Patch Files](https://brandonrozek.com/blog/patch-files/) (2024.05.18)
-- [Learning a new language](https://brandonrozek.com/blog/learning-language/) (2024.05.12)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
