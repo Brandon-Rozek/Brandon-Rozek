@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Writing Unit Tests in Lean 4](https://brandonrozek.com/blog/writing-unit-tests-lean-4/) (2024.08.05)
+- [Polymorphic Functions w/ Wildcard Matching in Lean 4](https://brandonrozek.com/blog/polymorphic-functions-wildcard-matching-lean-4/) (2024.08.04)
+- [Modifying JSON in Rust](https://brandonrozek.com/blog/modifying-json-in-rust/) (2024.08.03)
 - [Accessing Homelab Services Remotely with mTLS](https://brandonrozek.com/blog/accessing-homelab-services-mtls/) (2024.07.21)
 - [Re: Static+, can it work?](https://brandonrozek.com/blog/re-static-plus/) (2024.07.01)
-- [Quick Beamer: Generating a slide at the beginning of each section](https://brandonrozek.com/blog/beamer-gen-slide-at-section/) (2024.06.15)
-- [Constraints and Safety in PDDL](https://brandonrozek.com/blog/safety-constraints-pddl/) (2024.06.09)
-- [Creating Patch Files](https://brandonrozek.com/blog/patch-files/) (2024.05.18)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
