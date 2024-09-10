@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Webhook notifications on systemd service failure](https://brandonrozek.com/blog/webhook-notifications-on-systemd-service-failure/) (2024.09.04)
 - [Writing Unit Tests in Lean 4](https://brandonrozek.com/blog/writing-unit-tests-lean-4/) (2024.08.05)
 - [Polymorphic Functions w/ Wildcard Matching in Lean 4](https://brandonrozek.com/blog/polymorphic-functions-wildcard-matching-lean-4/) (2024.08.04)
 - [Modifying JSON in Rust](https://brandonrozek.com/blog/modifying-json-in-rust/) (2024.08.03)
 - [Accessing Homelab Services Remotely with mTLS](https://brandonrozek.com/blog/accessing-homelab-services-mtls/) (2024.07.21)
-- [Re: Static+, can it work?](https://brandonrozek.com/blog/re-static-plus/) (2024.07.01)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
