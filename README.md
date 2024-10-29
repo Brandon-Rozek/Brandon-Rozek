@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Replacing a drive in Btrfs](https://brandonrozek.com/blog/replacing-drive-btrfs/) (2024.10.23)
 - [Monitoring my Hard Drives with SMART Attributes](https://brandonrozek.com/blog/monitoring-disks-smartattributes/) (2024.10.17)
 - [Process JSON in the terminal with jq](https://brandonrozek.com/blog/jq/) (2024.10.05)
 - [Importing External Schemas in Prost](https://brandonrozek.com/blog/prost-import-external-schemas/) (2024.10.05)
 - [Hunter-Gatherer Traditions: Apple Picking](https://brandonrozek.com/blog/hunter-gathering-apple-picking/) (2024.09.28)
-- [Webhook notifications on systemd service failure](https://brandonrozek.com/blog/webhook-notifications-on-systemd-service-failure/) (2024.09.04)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
