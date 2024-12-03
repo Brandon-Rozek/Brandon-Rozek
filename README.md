@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Linting my blog posts with Vale](https://brandonrozek.com/blog/vale-linter-human-prose/) (2024.11.27)
+- [Please monitor disk usage](https://brandonrozek.com/blog/please-monitor-disk-usage/) (2024.11.26)
 - [Introduction to Possibility Theory](https://brandonrozek.com/blog/intro-possibility-theory/) (2024.10.30)
 - [Introduction to Dempster-Shafer Theory](https://brandonrozek.com/blog/intro-dempster-shafer/) (2024.10.29)
 - [Replacing a drive in Btrfs](https://brandonrozek.com/blog/replacing-drive-btrfs/) (2024.10.23)
-- [Monitoring my Hard Drives with SMART Attributes](https://brandonrozek.com/blog/monitoring-disks-smartattributes/) (2024.10.17)
-- [Process JSON in the terminal with jq](https://brandonrozek.com/blog/jq/) (2024.10.05)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
