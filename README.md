@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Hashing Based on Word (Emoji?) Lists](https://brandonrozek.com/blog/hashing-based-on-word-emoji-lists/) (2024.12.30)
+- [Naive Encodings of Transitivity within First-Order Logic](https://brandonrozek.com/blog/naive-encodings-transitivity-fol/) (2024.12.29)
+- [Rolling out my own CDN with GeoDNS](https://brandonrozek.com/blog/implementing-cdn-geodns/) (2024.12.28)
+- [Curl-able Business Cards](https://brandonrozek.com/blog/curl-card/) (2024.12.26)
 - [Temporary Port Forward using UPnP in Linux](https://brandonrozek.com/blog/temporary-port-forward-upnp-linux/) (2024.12.08)
-- [Listing Offline Pages with Service Workers](https://brandonrozek.com/blog/listing-offline-pages-service-workers/) (2024.12.07)
-- [Linting my blog posts with Vale](https://brandonrozek.com/blog/vale-linter-human-prose/) (2024.11.27)
-- [Please monitor disk usage](https://brandonrozek.com/blog/please-monitor-disk-usage/) (2024.11.26)
-- [Introduction to Possibility Theory](https://brandonrozek.com/blog/intro-possibility-theory/) (2024.10.30)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
