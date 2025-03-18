@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Weather Forcecasts on the Command-Line with the National Weather Service API](https://brandonrozek.com/blog/weather-forcecasts-cli-nws/) (2025.03.16)
 - [Adventures in Rust WebAssembly](https://brandonrozek.com/blog/adventures-in-rust-webassembly/) (2025.02.21)
 - [Blog Question Challenge (Jan 2025)](https://brandonrozek.com/blog/blog-question-challenge-jan2025/) (2025.01.29)
 - [Hashing Based on Word (Emoji?) Lists](https://brandonrozek.com/blog/hashing-based-on-word-emoji-lists/) (2024.12.30)
 - [Naive Encodings of Transitivity within First-Order Logic](https://brandonrozek.com/blog/naive-encodings-transitivity-fol/) (2024.12.29)
-- [Rolling out my own CDN with GeoDNS](https://brandonrozek.com/blog/implementing-cdn-geodns/) (2024.12.28)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
