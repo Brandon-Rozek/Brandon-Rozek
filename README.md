@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [10 Years](https://brandonrozek.com/blog/10-years/) (2025.04.16)
 - [Recently: April Showers Bring...](https://brandonrozek.com/blog/recently-2504-april-showers/) (2025.04.12)
 - [Setting up Ollama with CUDA on Podman Quadlets](https://brandonrozek.com/blog/ollama-cuda-podman-quadlets/) (2025.03.29)
 - [Weather Forcecasts on the Command-Line with the National Weather Service API](https://brandonrozek.com/blog/weather-forcecasts-cli-nws/) (2025.03.16)
 - [Adventures in Rust WebAssembly](https://brandonrozek.com/blog/adventures-in-rust-webassembly/) (2025.02.21)
-- [Blog Question Challenge (Jan 2025)](https://brandonrozek.com/blog/blog-question-challenge-jan2025/) (2025.01.29)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
