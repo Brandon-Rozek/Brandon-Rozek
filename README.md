@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Verifying Proofs with Type Checkers](https://brandonrozek.com/blog/verifying-proofs-type-checkers/) (2025.05.27)
 - [Is this program safe? Lessons from Type Theory](https://brandonrozek.com/blog/program-safety-type-theory/) (2025.05.10)
 - [Filesystem as a persistent key-value store in Python](https://brandonrozek.com/blog/filesystem-as-persistent-kvs-python/) (2025.04.27)
 - [Quick Lean: if-then-else statement in hypothesis](https://brandonrozek.com/blog/quick-lean-if-then-else-in-hypothesis/) (2025.04.26)
 - [10 Years](https://brandonrozek.com/blog/10-years/) (2025.04.16)
-- [Recently: April Showers Bring...](https://brandonrozek.com/blog/recently-2504-april-showers/) (2025.04.12)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
