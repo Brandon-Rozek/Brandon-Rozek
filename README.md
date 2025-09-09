@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Cursed Knowledge: Javascript Arrays Are Objects](https://brandonrozek.com/blog/cursed-knowledge-javascript-arrays-are-objects/) (2025.09.01)
 - [Deterministically Iterating over a set within Dafny functions](https://brandonrozek.com/blog/deterministic-set-iteration-dafny/) (2025.07.06)
 - [Dealing with Web Scrapers](https://brandonrozek.com/blog/anti-scraper-techniques/) (2025.07.02)
 - [Exploring via Public Transit](https://brandonrozek.com/blog/exploring-via-public-transit/) (2025.06.15)
 - [Embrace the Heat](https://brandonrozek.com/blog/embrace-the-heat/) (2025.06.08)
-- [Verifying Proofs with Type Checkers](https://brandonrozek.com/blog/verifying-proofs-type-checkers/) (2025.05.27)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
