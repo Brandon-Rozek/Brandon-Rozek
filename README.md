@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [Backing up my data with Restic, Btrfs, and MinIO](https://brandonrozek.com/blog/backups-with-restic-btrfs/) (2025.12.30)
 - [After 75 Miles of Running](https://brandonrozek.com/blog/running-75-miles/) (2025.12.26)
 - [Disabling Nat Source Port Randomization on OPNsense for Gaming](https://brandonrozek.com/blog/disabling-nat-source-port-randomization-opnsense/) (2025.12.23)
 - [Fedora CoreOS: First Impressions](https://brandonrozek.com/blog/fedora-coreos-first-impressions/) (2025.11.28)
 - [Flattening Cases to Avoid Nesting in Lean 4](https://brandonrozek.com/blog/flattening-cases-avoid-nesting-lean-4/) (2025.10.05)
-- [Cursed Knowledge: Javascript Arrays Are Objects](https://brandonrozek.com/blog/cursed-knowledge-javascript-arrays-are-objects/) (2025.09.01)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
