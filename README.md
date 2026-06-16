@@ -21,10 +21,10 @@ if you have any questions or even if you want to chat.
 
 ## Recent Posts
 
+- [On Post-Quantum Security Adoption](https://brandonrozek.com/blog/post-quantum-security-adoption/) (2026.06.15)
+- [Synchronizing my Static Website with Object Storage](https://brandonrozek.com/blog/synchronizing-static-website-object-storage/) (2026.06.13)
 - [Can you tell the difference? A quick look into discrimination testing.](https://brandonrozek.com/blog/discrimination-testing/) (2026.05.24)
 - [Praise the Smart Button](https://brandonrozek.com/blog/praise-smart-button/) (2026.05.22)
 - [Expectations are Linear](https://brandonrozek.com/blog/expectations-are-linear/) (2026.04.26)
-- [Bringing this website to the Tor network](https://brandonrozek.com/blog/on-the-tor-network/) (2026.02.01)
-- [Tales of Christmas Trees](https://brandonrozek.com/blog/tales-of-christmas-trees/) (2026.01.25)
 
 View more: [brandonrozek.com/blog](https://brandonrozek.com/blog)
